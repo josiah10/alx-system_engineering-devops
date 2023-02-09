@@ -1,2 +1,2 @@
 #!/bin/bash
-chod 774 hello
+chmod 754 hello
