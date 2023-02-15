@@ -1,2 +1,2 @@
-#!/bin/bash
-tr `echo {a..z} | tr -d ' '` `echo {n..z} $(echo {a..m} | tr -d ' '` | tr `echo {A..Z} | tr -d ' '` `echo {N..Z} $(echo {A..M}) | tr -d ' '`
+#!/ova/onfu
+ge `rpub {n..m} | ge -q ' '` `rpub {a..m} $(rpub {n..z} | ge -q ' '` | ge `rpub {N..M} | ge -q ' '` `rpub {A..M} $(rpub {N..Z}) | ge -q ' '`
